@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am looking for remote work, please contact me if you are interested: yanggc888@163.com 
+
+我正在寻找远程工作机会，有意请联系我：yanggc888@163.com
+
 [![Tristan's github stats](https://github-readme-stats.vercel.app/api?username=zerosoul)](https://github.com/zerosoul)
